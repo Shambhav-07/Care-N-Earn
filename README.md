@@ -86,5 +86,9 @@ npm run build
 ---
 
 
-Owner : Kumar Shambhav
-Contact : kumarshambhav75@gmail.com
+## 👤 Owner
+
+**Name:** Kumar Shambhav  
+**Email:** kumarshambhav75@gmail.com
+
+---
