@@ -21,7 +21,7 @@ export default function LoadingScreen() {
     <div className="fixed inset-0 bg-white dark:bg-gray-900 flex flex-col items-center justify-center z-50">
       <div className="text-center">
         <img
-          src="/public/CareNEarnLogo.png"
+          src="/CareNEarnLogo.png"
           alt="Care & Earn"
           className="w-32 h-32 mx-auto mb-8 animate-pulse"
         />
